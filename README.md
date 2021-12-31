@@ -6,6 +6,23 @@ On the 2021, I learnt about [rosettacode][rosettacode] site and I found it fasci
 
 ![rosetta-stone.jpeg](./rosetta-stone.jpeg)
 
+## Programming Languages
+The list of programming languages grows ever day so does my interest list. I will keep a list of Programming languages that
+I'm interested to test.
+
+Language | FizzBuzz | FrameIt | GameOfLife | Homepage |
+---------|:--------:|:-------:|:----------:| ---------|
+Caramel  | :white_large_square: | :white_large_square: | :white_large_square: | https://caramel.run/
+Gleam    | :white_large_square: | :white_large_square: | :white_large_square: | https://gleam.run/
+Elixir   | :white_check_mark: | :white_check_mark: | :white_large_square: | https://elixir-lang.org/
+Flix     | :white_large_square: | :white_large_square: | :white_large_square: | https://flix.dev/
+Nim      | :white_large_square: | :white_large_square: | :white_large_square: | https://nim-lang.org/
+Pony     | :white_large_square: | :white_large_square: | :white_large_square: | https://www.ponylang.io/
+Savi     | :white_large_square: | :white_large_square: | :white_large_square: | https://savi.zone/
+V        | :white_check_mark: | :white_check_mark: | :white_large_square: | https://vlang.io/
+
+
+
 # Problems
 Only a few simple problems will be listed, not trying to outsmart solutions, just play around with new languages.
 
@@ -34,9 +51,20 @@ For example the list `["Hello", "World", "in", "a", "frame"]` gets printed as:
     *********
 
 
+## Conway's Game of Life
+This [game has many variations][game-of-life] as we want, so I will focus on the classic `B3/S23`.
+
+Every cell interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:
+
+1. Any live cell with fewer than two live neighbours dies, as if by underpopulation.
+2. Any live cell with two or three live neighbours lives on to the next generation.
+3. Any live cell with more than three live neighbours dies, as if by overpopulation.
+4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
+
 
 
 
 [chrestomathy]: https://en.wikipedia.org/wiki/Chrestomathy
 [rosettacode]: http://www.rosettacode.org/
 [fizzbuzz]: http://www.rosettacode.org/wiki/FizzBuzz
+[game-of-life]: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
