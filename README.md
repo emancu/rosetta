@@ -18,6 +18,7 @@ Gleam    | :white_large_square: | :white_large_square: | :white_large_square: | 
 Elixir   | :white_check_mark:   | :white_check_mark:   | :white_large_square: | https://elixir-lang.org/
 Erlang   | :white_large_square: | :white_large_square: | :white_large_square: | https://www.erlang.org/
 Flix     | :white_large_square: | :white_large_square: | :white_large_square: | https://flix.dev/
+IO       | :white_large_square: | :white_large_square: | :white_large_square: | https://iolanguage.org/
 Kotlin   | :white_large_square: | :white_large_square: | :white_large_square: | https://kotlinlang.org/
 Nim      | :white_large_square: | :white_large_square: | :white_large_square: | https://nim-lang.org/
 OCaml    | :white_large_square: | :white_large_square: | :white_large_square: | https://ocaml.org/
