@@ -12,14 +12,20 @@ I'm interested to test.
 
 Language | FizzBuzz | FrameIt | GameOfLife | Homepage |
 ---------|:--------:|:-------:|:----------:| ---------|
+Ballerina| :white_large_square: | :white_large_square: | :white_large_square: | https://ballerina.io/
 Caramel  | :white_large_square: | :white_large_square: | :white_large_square: | https://caramel.run/
 Gleam    | :white_large_square: | :white_large_square: | :white_large_square: | https://gleam.run/
-Elixir   | :white_check_mark: | :white_check_mark: | :white_large_square: | https://elixir-lang.org/
+Elixir   | :white_check_mark:   | :white_check_mark:   | :white_large_square: | https://elixir-lang.org/
+Erlang   | :white_large_square: | :white_large_square: | :white_large_square: | https://www.erlang.org/
 Flix     | :white_large_square: | :white_large_square: | :white_large_square: | https://flix.dev/
+Kotlin   | :white_large_square: | :white_large_square: | :white_large_square: | https://kotlinlang.org/
 Nim      | :white_large_square: | :white_large_square: | :white_large_square: | https://nim-lang.org/
+OCaml    | :white_large_square: | :white_large_square: | :white_large_square: | https://ocaml.org/
 Pony     | :white_large_square: | :white_large_square: | :white_large_square: | https://www.ponylang.io/
+ReasonML | :white_large_square: | :white_large_square: | :white_large_square: | https://reasonml.github.io/
+Rust     | :white_large_square: | :white_large_square: | :white_large_square: | https://www.rust-lang.org/
 Savi     | :white_large_square: | :white_large_square: | :white_large_square: | https://savi.zone/
-V        | :white_check_mark: | :white_check_mark: | :white_large_square: | https://vlang.io/
+V        | :white_check_mark:   | :white_check_mark:   | :white_large_square: | https://vlang.io/
 
 
 
