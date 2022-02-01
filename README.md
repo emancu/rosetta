@@ -27,6 +27,7 @@ ReasonML | :white_large_square: | :white_large_square: | :white_large_square: | 
 Rust     | :white_large_square: | :white_large_square: | :white_large_square: | https://www.rust-lang.org/
 Savi     | :white_large_square: | :white_large_square: | :white_large_square: | https://savi.zone/
 V        | :white_check_mark:   | :white_check_mark:   | :white_large_square: | https://vlang.io/
+Zig      | :white_large_square: | :white_large_square: | :white_large_square: | https://ziglang.org/
 
 
 
